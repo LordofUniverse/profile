@@ -1,1 +1,1 @@
-document.getElementById('body').style['height'] = (parseInt(window.innerHeight) - 15).toString() + 'px'
+document.getElementById('body').style['height'] = window.innerHeight + 'px'
