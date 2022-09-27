@@ -1,3 +1,3 @@
 # profile
 
-Thankyou Next.js
+Beautifull UI to display my profile
